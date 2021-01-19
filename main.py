@@ -98,7 +98,7 @@ def createLink(sourcePath, targetPath):
             logging.debug('[-] FakeLink: ' + targetPath + ' <- ' + sourcePath)
         else:
             if not os.path.exists(os.path.dirname(targetPath)):
-                os.makedirs(os.path.dirname(targetPath), 755)
+                os.makedirs(os.path.dirname(targetPath))
             os.link(sourcePath, targetPath)
             logging.info('[+] Link' + targetPath + ' <- ' + sourcePath)
 
@@ -150,7 +150,7 @@ def main():
     subtitleListTarget = subtitleLists(targetDir, [], 1)
     logging.info('[*] Start link target subtitle file(s)')
     for subtitlePath in subtitleListTarget:
-        subtitleTarget = targetPath(subtitlePath, sourceDir, targetDir)
+        subtitleTarget = targetPath(subtitlePath, targetDir, targetDir)
         createLink(subtitlePath, subtitleTarget)
     logging.info('[*] End link target subtitle file(s)')
 
