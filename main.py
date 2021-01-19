@@ -117,10 +117,10 @@ def createLink(sourcePath, targetPath):
     sourcePath = os.path.abspath(sourcePath)
     targetPath = os.path.abspath(targetPath)
     if not os.path.exists(targetPath):
-        if debug:
-            logging.debug('[-] FakeLink: ' + targetPath + ' <- ' + sourcePath)
-        elif os.path.exists(os.path.join(os.path.dirname(targetPath), 'link.ignore')):
+        if os.path.exists(os.path.join(os.path.dirname(targetPath), 'link.ignore')):
             logging.debug('[-] IgnoreLink: ' + targetPath + ' <- ' + sourcePath)
+        elif debug:
+            logging.debug('[-] FakeLink: ' + targetPath + ' <- ' + sourcePath)
         else:
             if not os.path.exists(os.path.dirname(targetPath)):
                 os.makedirs(os.path.dirname(targetPath))
