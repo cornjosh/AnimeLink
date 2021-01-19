@@ -1,0 +1,191 @@
+[2021-01-18 02:24:12 - main.py - INFO : hello]
+2021-01-18 02:25:13 - main.py - INFO : hello
+2021-01-18 02:38:39 - main.py - INFO : Running: / -> /
+2021-01-18 02:42:10 - main.py - INFO : Running: / -> /
+2021-01-18 02:56:49 - main.py - INFO : Running: / -> /
+2021-01-18 02:57:10 - main.py - INFO : Running: . -> .
+2021-01-18 02:57:36 - main.py - INFO : Running: . -> .
+2021-01-18 03:00:55 - main.py - INFO : Running: . -> .
+2021-01-19 18:32:09 - main.py - INFO : [*] Running: . -> .
+2021-01-19 19:41:01 - main.py - INFO : [*] Running: \\TOWER\video\download\anime -> \\TOWER\video\anime
+2021-01-19 19:41:01 - main.py - INFO : [*] Start find anime file(s)
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [01][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [02][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [03][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [04][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [05][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [06][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [07][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [08][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [09][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [10][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [11][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [12][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [01][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [02][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [03][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [04][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [05][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [06][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [07][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [08][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [09][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [10][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [11][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [12][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [13][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第01話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第02話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第03話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第04話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第05話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第06話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第07話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第08話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第09話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第10話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第11話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第12話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 第13話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 完結編 第14話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 完結編 第15話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 完結編 第16話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] ReLIFE 完結編 第17話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第01話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第02話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第03話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第04話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第05話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第06話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第07話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第08話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第09話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第10話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第11話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:01 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第12話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:01 - main.py - INFO : [*] Start move anime file(s)
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\01.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [01][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\02.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [02][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\03.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [03][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\04.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [04][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\05.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [05][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\06.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [06][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\07.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [07][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\08.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [08][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\09.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [09][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\10.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [10][720p][x264_aac][sc].mp4
+2021-01-19 19:41:01 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\11.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [11][720p][x264_aac][sc].mp4
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\Koisuru Asteroid\12.mp4 <- \\TOWER\video\download\anime\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [720p][sc]\[Nekomoe kissaten&VCB-Studio] Koisuru Asteroid [12][720p][x264_aac][sc].mp4
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\01.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [01][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\02.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [02][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\03.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [03][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\04.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [04][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\05.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [05][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\06.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [06][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\07.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [07][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\08.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [08][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\09.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [09][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\10.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [10][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\11.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [11][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\12.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [12][Hi10p_1080p][x264_flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\13.mkv <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [13][Hi10p_1080p][x264_2flac].mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\01.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第01話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\02.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第02話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\03.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第03話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\04.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第04話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:02 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\05.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第05話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\06.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第06話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\07.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第07話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\08.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第08話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\09.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第09話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\10.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第10話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\11.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第11話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\12.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第12話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE\13.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE\[Snow-Raws] ReLIFE 第13話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE 完結編\14.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE 完結編\[Snow-Raws] ReLIFE 完結編 第14話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE 完結編\15.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE 完結編\[Snow-Raws] ReLIFE 完結編 第15話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE 完結編\16.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE 完結編\[Snow-Raws] ReLIFE 完結編 第16話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\ReLIFE 完結編\17.mkv <- \\TOWER\video\download\anime\[Snow-Raws] ReLIFE 完結編\[Snow-Raws] ReLIFE 完結編 第17話 (BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\01.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第01話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\02.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第02話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\03.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第03話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\04.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第04話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\05.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第05話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\06.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第06話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:03 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\07.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第07話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\08.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第08話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\09.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第09話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\10.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第10話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\11.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第11話(BD 1920x1080 HEVC-YUV420P10 FLAC).mkv
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\12.mkv <- \\TOWER\video\download\anime\[Snow-Raws] りゅうおうのおしごと！ (BD 1920x1080 HEVC-YUV420P10 FLACx2)\[Snow-Raws] りゅうおうのおしごと！ 第12話(BD 1920x1080 HEVC-YUV420P10 FLACx2).mkv
+2021-01-19 19:41:04 - main.py - INFO : [*] End move anime file(s)
+2021-01-19 19:41:04 - main.py - INFO : [*] Start find subtitles file(s)
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [01][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [02][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [03][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [04][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [05][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [06][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [07][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [08][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [09][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [10][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [11][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [12][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [-] [Pussub&VCB-Studio] White Album 2 [13][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [*] Start move subtitle file(s)
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\01.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [01][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\02.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [02][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\03.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [03][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\04.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [04][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\05.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [05][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\06.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [06][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\07.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [07][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:04 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\08.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [08][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\09.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [09][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\10.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [10][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\11.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [11][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\12.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [12][Hi10p_1080p][x264_flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [+] Link\\TOWER\video\anime\White Album 2\13.ass <- \\TOWER\video\download\anime\[Pussub&VCB-Studio] White Album 2 [Hi10p_1080p]\[Pussub&VCB-Studio] White Album 2 [13][Hi10p_1080p][x264_2flac].ass
+2021-01-19 19:41:05 - main.py - INFO : [*] End move subtitle file(s)
+2021-01-19 19:48:43 - main.py - INFO : [*] Running: \\TOWER\video\download\anime -> \\TOWER\video\anime
+2021-01-19 19:48:43 - main.py - INFO : [*] Start find subtitles file(s)
+2021-01-19 19:48:43 - main.py - INFO : [-] 01.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 02.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 03.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 04.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 05.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 06.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 07.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 08.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 09.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 10.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 11.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 12.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] 13.ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第01話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第02話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第03話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第04話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第05話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第06話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第07話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第08話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第09話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第10話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第11話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [-] [Snow-Raws] りゅうおうのおしごと！ 第12話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [*] Start link target subtitle file(s)
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\01.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第01話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\02.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第02話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\03.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第03話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\04.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第04話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\05.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第05話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\06.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第06話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\07.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第07話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\08.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第08話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:43 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\09.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第09話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:44 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\10.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第10話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:44 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\11.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第11話(BD 1920x1080 HEVC-YUV420P10 FLAC).ass
+2021-01-19 19:48:44 - main.py - INFO : [+] Link\\TOWER\video\anime\りゅうおうのおしごと！\12.ass <- \\TOWER\video\anime\りゅうおうのおしごと！\[Snow-Raws] りゅうおうのおしごと！ 第12話(BD 1920x1080 HEVC-YUV420P10 FLACx2).ass
+2021-01-19 19:48:44 - main.py - INFO : [*] End link target subtitle file(s)
