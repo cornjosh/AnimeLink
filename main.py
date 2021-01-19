@@ -97,7 +97,8 @@ def createLink(sourcePath, targetPath):
         if debug:
             logging.debug('[-] FakeLink: ' + targetPath + ' <- ' + sourcePath)
         else:
-            os.makedirs(os.path.dirname(targetPath), 755, True)
+            if not os.path.exists(os.path.dirname(targetPath)):
+                os.makedirs(os.path.dirname(targetPath), 755)
             os.link(sourcePath, targetPath)
             logging.info('[+] Link' + targetPath + ' <- ' + sourcePath)
 
