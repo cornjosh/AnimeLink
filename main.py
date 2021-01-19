@@ -32,6 +32,14 @@ def readConfig():
 
 def fileLists(root, fileType, escapeFolder, loop):
     """查找文件"""
+    '''
+    String root 文件夹路径
+    List fileType 文件后缀
+    List escapeFolder 排除的文件夹名
+    Int loop 最大搜索深度
+    
+    List total 满足条件的所有文件路径
+    '''
     for folder in escapeFolder:
         if folder in root:
             return []
@@ -64,6 +72,11 @@ def subtitleLists(root, escapeFolder, loop):
 
 def findAnimeName(folderName):
     """通过文件夹名识别动漫名"""
+    '''
+    String folderName 文件夹名
+    去除所有括号内的内容
+    String animeName 动漫名
+    '''
     rawAnimeName = re.sub(u"\\(.*?\\)|\\{.*?\\}|\\[.*?\\]|\\<.*?\\>", "", folderName)
     animeName = rawAnimeName.strip()
     logging.debug('[!] AnimeName: ' + animeName + ' <- ' + folderName)
@@ -72,6 +85,13 @@ def findAnimeName(folderName):
 
 def findEpisode(fileName, animeName):
     """通过文件名和动漫名识别第几集"""
+    '''
+    String fileName 文件名
+    String animeName 动漫名
+    从文件名中删去动漫名，去掉所有括号内的内容，只保留数字;
+    或者从文件名中删去动漫名，匹配[xxx]形式，提取数字xxx
+    Int/None episode 集数
+    '''
     fileName = os.path.basename(fileName)
     fileName = os.path.splitext(fileName)[0]
     try:
@@ -91,16 +111,21 @@ def findEpisode(fileName, animeName):
 
 def createLink(sourcePath, targetPath):
     """创建硬链接"""
+    '''
+    当DEBUG模式时只输出日志，不真的创建连接
+    '''
     sourcePath = os.path.abspath(sourcePath)
     targetPath = os.path.abspath(targetPath)
     if not os.path.exists(targetPath):
         if debug:
             logging.debug('[-] FakeLink: ' + targetPath + ' <- ' + sourcePath)
+        elif os.path.exists(os.path.join(os.path.dirname(targetPath), 'link.ignore')):
+            logging.debug('[-] IgnoreLink: ' + targetPath + ' <- ' + sourcePath)
         else:
             if not os.path.exists(os.path.dirname(targetPath)):
                 os.makedirs(os.path.dirname(targetPath))
             os.link(sourcePath, targetPath)
-            logging.info('[+] Link' + targetPath + ' <- ' + sourcePath)
+            logging.info('[+] Link:' + targetPath + ' <- ' + sourcePath)
 
 
 def getDirName(path):
